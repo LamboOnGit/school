@@ -1,4 +1,3 @@
-#tp devsecops#
 pipeline {
     agent any
     triggers {
